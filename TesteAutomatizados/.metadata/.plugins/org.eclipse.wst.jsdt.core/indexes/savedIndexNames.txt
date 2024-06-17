@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/cassiano/eclipse-workspace/TesteAutomatizados/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2092073984.index
